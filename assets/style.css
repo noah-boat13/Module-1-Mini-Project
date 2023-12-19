@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+
+figure {
+    
+}
+footer {
+    background-color: teal;
+    color: white;
+    line-height: 100px;
+}
+
+.navbar {
+    text-align: right;
+    background-color: teal;
+    color: white;
+    line-height: 100px;
+}
+
+
+
+
